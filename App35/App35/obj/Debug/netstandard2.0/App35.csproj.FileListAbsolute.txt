@@ -1,0 +1,15 @@
+C:\Users\samuel\source\repos\App35\App35\App35\bin\Debug\netstandard2.0\App35.deps.json
+C:\Users\samuel\source\repos\App35\App35\App35\bin\Debug\netstandard2.0\App35.dll
+C:\Users\samuel\source\repos\App35\App35\App35\bin\Debug\netstandard2.0\ref\App35.dll
+C:\Users\samuel\source\repos\App35\App35\App35\bin\Debug\netstandard2.0\App35.pdb
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\App35.csprojAssemblyReference.cache
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\View\EstudianteView.xaml.g.cs
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\App35.csproj.CoreCompileInputs.cache
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\App35.AssemblyInfoInputs.cache
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\App35.AssemblyInfo.cs
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\App35.dll
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\ref\App35.dll
+C:\Users\samuel\source\repos\App35\App35\App35\obj\Debug\netstandard2.0\App35.pdb
